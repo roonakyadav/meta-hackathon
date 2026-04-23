@@ -11,7 +11,7 @@ tags:
 
 # AI Incident Response — OpenEnv Environment
 
-A competitive OpenEnv submission for the Meta × Hugging Face hackathon. This environment simulates **distributed system incident response** — agents must reason over cascading failures, misleading logs, and dependency chains to restore a multi-service system. It is specifically designed to defeat pattern-matching and reward genuine causal reasoning.
+A cmpetitive OpenEnv submission for the Meta × Hugging Face hackathon. This environment simulates **distributed system incident response** — agents must reason over cascading failures, misleading logs, and dependency chains to restore a multi-service system. It is specifically designed to defeat pattern-matching and reward genuine causal reasoning.
 
 ---
 
